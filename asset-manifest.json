@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sujeet-Raj-Chaudhari/RabbitThree/static/css/main.066cf69e.css",
-    "main.js": "/Sujeet-Raj-Chaudhari/RabbitThree/static/js/main.7686749c.js",
-    "index.html": "/Sujeet-Raj-Chaudhari/RabbitThree/index.html",
-    "main.066cf69e.css.map": "/Sujeet-Raj-Chaudhari/RabbitThree/static/css/main.066cf69e.css.map",
-    "main.7686749c.js.map": "/Sujeet-Raj-Chaudhari/RabbitThree/static/js/main.7686749c.js.map"
+    "main.css": "/RabbitThree/static/css/main.066cf69e.css",
+    "main.js": "/RabbitThree/static/js/main.7686749c.js",
+    "index.html": "/RabbitThree/index.html",
+    "main.066cf69e.css.map": "/RabbitThree/static/css/main.066cf69e.css.map",
+    "main.7686749c.js.map": "/RabbitThree/static/js/main.7686749c.js.map"
   },
   "entrypoints": [
     "static/css/main.066cf69e.css",
